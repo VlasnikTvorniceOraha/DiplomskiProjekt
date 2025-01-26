@@ -49,7 +49,6 @@ public class JSONPasrser : MonoBehaviour
 
             // Process the response data (e.g., parse JSON)
             // ...
-
             ParseJson(responseText);
         }
         else
